@@ -1,5 +1,7 @@
 {
   "url": "https://tether-mining.vercel.app/",
   "name": "Tetherrush",
-  "iconUrl": "https://pbs.twimg.com/profile_images/1935918230519885824/YycX6M8g_400x400.jpg"
+  "iconUrl": "https://pbs.twimg.com/profile_images/1935918230519885824/YycX6M8g_400x400.jpg",
+  "termsOfUseUrl": "https://tether-mining.vercel.app/terms",
+  "privacyPolicyUrl": "https://tether-mining.vercel.app/privacy"
 }
